@@ -1,0 +1,6 @@
+C:\Users\Lalit Bagga\Desktop\Simran2\KillingMachine\KillingMachine\bin\Debug\KillingMachine.exe.config
+C:\Users\Lalit Bagga\Desktop\Simran2\KillingMachine\KillingMachine\obj\Debug\KillingMachine.exe
+C:\Users\Lalit Bagga\Desktop\Simran2\KillingMachine\KillingMachine\obj\Debug\KillingMachine.pdb
+C:\Users\Lalit Bagga\Desktop\Simran2\KillingMachine\Gpss\bin\Debug\KillingMachine.exe.config
+C:\Users\Lalit Bagga\Desktop\Simran2\KillingMachine\Gpss\obj\Debug\KillingMachine.exe
+C:\Users\Lalit Bagga\Desktop\Simran2\KillingMachine\Gpss\obj\Debug\KillingMachine.pdb
